@@ -1,7 +1,7 @@
 '''
    Steganorgaphy Progamm v 1.0 
    This programm can help you to hide your message into .png file!
-   Just enter your text and the uinque picture will be downloaded automatically!
+   Just enter your text and the unique picture will be downloaded automatically!
    You will find it in your home directory and choose this picture to paste your text in!
    Follow the instructions!
 '''
